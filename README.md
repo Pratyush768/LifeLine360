@@ -49,8 +49,3 @@ Traditional disaster management systems suffer from:
 ---
 
 ## 🖥️ System Architecture  
-
-                       │   Dashboard      │◀───│  Notification   │
-                       │                  │    │    Service      │
-                       └──────────────────┘    └─────────────────┘
-
